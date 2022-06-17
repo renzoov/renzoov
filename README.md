@@ -1,4 +1,4 @@
-![ROVDEV][(https://imgur.com/xyeKCi9)]
+![ROVDEV](https://imgur.com/xyeKCi9)
 
 # 💫About Me :
 🔭 Trabajo en Inetum Perú
