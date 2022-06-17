@@ -1,8 +1,4 @@
-<div>
-<p style = 'text-align:center;'>
-<img src="https://i.imgur.com/2l1aiPm.png" alt="ROVDEV" width="300px">
-</p>
-</div>
+![ROVDEV](https://i.imgur.com/2l1aiPm.png)
 
 # 💫Acerca de mí :
 🔭 Trabajo en Inetum Perú
@@ -19,4 +15,4 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=renzoov&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=renzoov&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoov&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=renzoov&
