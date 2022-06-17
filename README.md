@@ -1,6 +1,6 @@
 ![ROVDEV](https://i.imgur.com/xyeKCi9.png)
 
-# 💫About Me :
+# 💫Acerca de mi :
 🔭 Trabajo en Inetum Perú
 
 🌱 Actualmente estoy aprendiendo React, Node.js y más
