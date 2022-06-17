@@ -2,7 +2,9 @@
 
 # 💫About Me :
 🔭 Trabajo en Inetum Perú
+
 🌱 Actualmente estoy aprendiendo React, Node.js y más
+
 💬 Me gusta mucho la lectura y boxear 🥊
 
 ## 🌐Socials
