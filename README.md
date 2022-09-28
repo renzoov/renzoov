@@ -1,5 +1,4 @@
 ![ROVDEV](https://i.imgur.com/2l1aiPm.png)
-<a href="https://app.daily.dev/r3nzo_o"><img src="https://api.daily.dev/devcards/5e7d59e2da024de78ab67b7d1787baa9.png?r=io8" width="400" alt="Renzo Osorio Valdez's Dev Card"/></a>
 
 # 💫Acerca de mí :
 🔭 Trabajo en Inetum Perú
