@@ -1,5 +1,7 @@
 ![ROVDEV](https://i.imgur.com/2l1aiPm.png)
 
+# 👋 Hola soy, Renzo Osorio
+
 # 💫Acerca de mí :
 🔭 Trabajo en Inetum Perú
 
