@@ -5,7 +5,7 @@
 # 💫Acerca de mí :
 🔭 Trabajo en Inetum Perú
 
-🌱 Actualmente estoy aprendiendo React, Node.js y más
+🌱 Actualmente estoy aprendiendo otros lenguajes de programación
 
 💬 Me gusta mucho la lectura y boxear 🥊
 
